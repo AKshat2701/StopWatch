@@ -1,2 +1,2 @@
 # StopWatch
-[check here](famous-moonbeam-fe9dd5.netlify.app)
+[check here on netlify](famous-moonbeam-fe9dd5.netlify.app)
